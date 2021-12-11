@@ -9,7 +9,7 @@ It Developed by Using `Js , AJAX` & Designed by `HTML, CSS`
 - Linux Software
 ## Installation Instructions
 
-**Open Terminal and select source of folder udacityProj2 and type :**
+**Open Terminal and select source of folder udacityProj and type :**
 ```
 apt install node
 node -v
